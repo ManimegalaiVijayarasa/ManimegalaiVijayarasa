@@ -1,4 +1,4 @@
-# Hi there, I'm Manimegalai Vijayarasa! 👋
+# Hi there, I'm Manimegalai Vijayarasa!&#x20;
 
 ### Information Technology Undergraduate | Aspiring Software Engineer
 
@@ -47,6 +47,28 @@ I enjoy building practical applications, solving problems, and continuously lear
 - Developed a 2D space shooter game with player movement, shooting, enemies, and sound effects.
 - **Technologies:** C#, Windows Forms, SQL Server.
 - Group Project | Sept 2024 – Jan 2025
+
+---
+
+### 🏆 Competitions
+
+- **Hydra CTF 2026** — Participant, **SQUAD SYNTAX**.
+- **IEEE Xtreme 18.0** – Participation (2024), "**SheSupports"** Placed among the **top 2 teams at the University of Vavuniya**.
+- **IEEE Xtreme 17.0** – Participation (2023), "**Riskybiscuits**" **At the University of Vavuniya**.
+
+---
+
+### 📜 Certifications
+
+**Cisco Networking Academy**
+
+- JavaScript Essentials 1
+- JavaScript Essentials 2
+
+**SoloLearn**
+
+- Introduction to SQL
+- SQL Intermediate
 
 ---
 
